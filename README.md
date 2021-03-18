@@ -1,2 +1,2 @@
 # autspaces-test-app
-Teseting making and deploying an app 
+Testing making and deploying an app 
